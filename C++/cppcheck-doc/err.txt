@@ -1,0 +1,187 @@
+[biz\account\charge\ao\ao_acccharge.cpp:3801]: (error) va_list 'ap' was opened but not closed by va_end().
+[biz\account\msgq\ao\ao_accmsgq.cpp:157]: (error) va_list 'ap' was opened but not closed by va_end().
+[biz\adrecommend\nearlinestat\tools\test_jcache.cpp:61]: (error) Memory leak: pJcache
+[biz\adx\fee\ao\ao_adxfee.cpp:892]: (error) va_list 'ap' was opened but not closed by va_end().
+[biz\adxrtdata\ao\ao_adxrtdata.cpp:617]: (error) Same iterator is used with different containers 'm_mAdIdMap' and 'm_mPlanIdMap'.
+[biz\cconfig\test\db_muticonn.h:246]: (error) Invalid number of character '(' when no macros are defined.
+[biz\cpc\import\shareao\lib\shareao_stub4app.cpp:63]: (error) Uninitialized struct member: oResp.dwResult
+[biz\cpc\import\shareao\lib\shareao_stub4app.cpp:117]: (error) Uninitialized struct member: oResp.dwResult
+[biz\cpc\import\shareao\lib\shareao_stub4web.cpp:78]: (error) Uninitialized struct member: oResp.dwResult
+[biz\cpc\import\shareao\lib\shareao_stub4web_r.cpp:82]: (error) Uninitialized struct member: oResp.dwResult
+[biz\cpc\import\shareao\include\shareao_stub4web_allinone.h:187]: (error) Uninitialized struct member: oResp.dwResult
+[biz\dataserver2\include\line_serialize.h:342]: (error) Uninitialized variable: sz
+[biz\dataserver2\include\line_serialize.h:344]: (error) Uninitialized variable: sz
+[biz\cps\syncsearch\ao\cps_emulate_msgq_test.cpp:394]: (error) Resource leak: fp
+[biz\cps\syncsearch\test\cps_check_comm.cpp:230]: (error) Resource leak: fp
+[biz\cps\syncsearch\test\cps_doc_flush.cpp:310]: (error) Resource leak: fp
+[biz\cps\syncsearch\test\cps_doc_retry.cpp:199]: (error) Resource leak: fp
+[biz\cps\syncsearch\test\cps_doc_retry.cpp:285]: (error) Resource leak: fp
+[biz\cps\syncsearch\tools\cps_checkindex.cpp:87]: (error) Resource leak: fd
+[biz\cps\syncsearch\tools\cps_data_flush.cpp:183]: (error) Resource leak: fp
+[biz\cps\syncsearch\tools\cps_doc_del.cpp:209]: (error) Resource leak: fp
+[biz\cps\syncsearch\tools\cps_doc_flush.cpp:310]: (error) Resource leak: fp
+[biz\cps\syncsearch\tools\cps_doc_retry.cpp:199]: (error) Resource leak: fp
+[biz\cps\syncsearch\tools\cps_doc_retry.cpp:287]: (error) Resource leak: fp
+[biz\datahouse\app\luadata\ao\ao_opersync_data.cpp:477]: (error) Resource leak: fp
+[biz\datarpt\src\filedatarpt.cpp:91]: (error) Uninitialized struct member: oDRC.dwCount
+[biz\datarpt\src\filedatarpt.cpp:90]: (error) Uninitialized struct member: oDRC.dwTimeRange
+[biz\datarpt\src\filedatarpt.cpp:92]: (error) Uninitialized struct member: oDRC.dwTryTime
+[biz\datarpt\src\filedatarpt.cpp:93]: (error) Uninitialized struct member: oDRC.iLogLevel
+[biz\datarpt\src\filedatarpt.cpp:94]: (error) Uninitialized struct member: oDRC.iMaxSize
+[biz\datarpt\src\filedatarpt.cpp:95]: (error) Uninitialized struct member: oDRC.iMaxNum
+[biz\datarpt\src\filedatarpt.cpp:96]: (error) Uninitialized struct member: oDRC.dwEmpireTime
+[biz\datarpt\src\msgdatarpt.cpp:62]: (error) Uninitialized struct member: oDRC.dwSleepTime
+[biz\datarpt\src\msgdatarpt.cpp:63]: (error) Uninitialized struct member: oDRC.dwCount
+[biz\datarpt\src\msgdatarpt.cpp:64]: (error) Uninitialized struct member: oDRC.iLogLevel
+[biz\datarpt\src\msgdatarpt.cpp:65]: (error) Uninitialized struct member: oDRC.iMaxSize
+[biz\datarpt\src\msgdatarpt.cpp:66]: (error) Uninitialized struct member: oDRC.iMaxNum
+[biz\dmp\datatfr\ao\ao_datatfr.cpp:339]: (error) Resource leak: fpRead
+[biz\dmp\tag2gdt\test\test_tag2gdt.cpp:158]: (error) Resource leak: fp
+[biz\dmp\tools\pb_writer.cpp:160]: (error) Resource leak: fp_in
+[biz\etg\async\cache\etg_cache_crt.cpp:24]: (error) After clear(), the iterator 'it' may be invalid.
+[biz\etg\async\cache\etg_cache_mtr.cpp:24]: (error) After clear(), the iterator 'it' may be invalid.
+[biz\etg\classdata\test\test_classdata.cpp:101]: (error) Uninitialized variable: dwCheckPath
+[biz\etg\classdata\test\test_classdata.cpp:101]: (error) Uninitialized variable: dwGetFullPath
+[biz\etg\report\report_svc\cgi\action_etg_report.cpp:114]: (error) syntax error
+[biz\express\fee\ao\ao_expfee.cpp:1430]: (error) va_list 'ap' was opened but not closed by va_end().
+[biz\express\rpt\report_merge\cgi\ppzt_report_ad.cpp:713]: (error) Uninitialized variable: dwPageNum
+[biz\express\rpt\report_svc_v2\cgi\ppzt_report_ad.cpp:452]: (error) Uninitialized variable: dwPageNum
+[biz\item\union\test\data_test.cpp:74]: (error) Uninitialized variable: iRet
+[biz\item\union\test\promoinfo_test.cpp:62]: (error) Uninitialized variable: iOrigin
+[biz\item\union\test\promoinfo_test.cpp:66]: (error) Uninitialized variable: iOrigin
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4app.cpp:245]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4app.cpp:307]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4app.cpp:330]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4web.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4web.cpp:310]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\lib\jdadvertnao_stub4web_r.cpp:185]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\include\jdadvertnao_stub4web_allinone.h:271]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdadvertnao\include\jdadvertnao_stub4web_allinone.h:367]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4app.cpp:245]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4app.cpp:307]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4app.cpp:330]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4web.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4web.cpp:310]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\lib\jddetailao_stub4web_r.cpp:185]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\include\jddetailao_stub4web_allinone.h:284]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jddetailao\include\jddetailao_stub4web_allinone.h:380]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdevalnumnao\lib\jdevalnumnao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdevalnumnao\lib\jdevalnumnao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdevalnumnao\lib\jdevalnumnao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdevalnumnao\lib\jdevalnumnao_stub4web.cpp:128]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdevalnumnao\lib\jdevalnumnao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdevalnumnao\include\jdevalnumnao_stub4web_allinone.h:202]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:245]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:307]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:330]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:409]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:471]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4app.cpp:494]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4web.cpp:158]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4web.cpp:325]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4web.cpp:492]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4web_r.cpp:185]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\lib\jditemcacheao_stub4web_r.cpp:273]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\include\jditemcacheao_stub4web_allinone.h:340]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\include\jditemcacheao_stub4web_allinone.h:436]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemcacheao\include\jditemcacheao_stub4web_allinone.h:532]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4app.cpp:245]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4app.cpp:307]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4app.cpp:330]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4web.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4web.cpp:310]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\lib\jditemnao_stub4web_r.cpp:185]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jditemnao\include\jditemnao_stub4web_allinone.h:200]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:245]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:307]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:330]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:409]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:471]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4app.cpp:494]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4web.cpp:158]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4web.cpp:325]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4web.cpp:492]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4web_r.cpp:185]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\lib\jdpingouao_stub4web_r.cpp:273]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\include\jdpingouao_stub4web_allinone.h:338]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\include\jdpingouao_stub4web_allinone.h:434]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpingouao\include\jdpingouao_stub4web_allinone.h:530]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4app.cpp:245]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4app.cpp:307]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4app.cpp:330]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4web.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4web.cpp:310]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\lib\jdpricenao_stub4web_r.cpp:185]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\include\jdpricenao_stub4web_allinone.h:271]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpricenao\include\jdpricenao_stub4web_allinone.h:367]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpromonao\lib\jdpromonao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpromonao\lib\jdpromonao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpromonao\lib\jdpromonao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpromonao\lib\jdpromonao_stub4web.cpp:128]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpromonao\lib\jdpromonao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdpromonao\include\jdpromonao_stub4web_allinone.h:200]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdstocknao\lib\jdstocknao_stub4app.cpp:81]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdstocknao\lib\jdstocknao_stub4app.cpp:143]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdstocknao\lib\jdstocknao_stub4app.cpp:166]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdstocknao\lib\jdstocknao_stub4web.cpp:128]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdstocknao\lib\jdstocknao_stub4web_r.cpp:97]: (error) Uninitialized struct member: oResp.dwResult
+[biz\item\wq\jdstocknao\include\jdstocknao_stub4web_allinone.h:205]: (error) Uninitialized struct member: oResp.dwResult
+[biz\jdsms\gsoap-build\stdsoap2.cpp:3895]: (error) Resource leak: sk
+[biz\mrjx\gw\subscribe\ao\ao_gw.cpp:400]: (error) Invalid strtoul() argument nr 3. The value is 1 but the valid values are '0,2:36'.
+[biz\mrjx\gw\user\svc\mrjx_usergw_msgq.cpp:186]: (error) Mismatching allocation and deallocation: buf
+[biz\operad\ad\test\operad_ad_test.cpp:1157]: (error) Uninitialized variable: dwProfileId
+[biz\operad\ad\test\operad_ad_test.cpp:1191]: (error) Uninitialized variable: dwAuditState
+[biz\operad\ad\test\operad_ad_test.cpp:1276]: (error) Uninitialized variable: dwDelFlag
+[biz\qwshop\activity\fcgi\qwd_activity_list.cpp:254]: (error) Uninitialized variable: info
+[biz\qwshop\activity\tools\qwd_actspu_loader.cpp:62]: (error) Resource leak: pFile
+[biz\qwshop\activity\tools\qwd_actspu_loader.cpp:70]: (error) Resource leak: pFile
+[biz\qwshop\activity\tools\qwd_actspu_loader.cpp:70]: (error) Memory leak: buffer
+[biz\qwshop\shop\fcgi\image_cloudupload.cpp:252]: (error) Resource leak: fp
+[biz\qwshop\shop\fcgi\image_cloudupload.cpp:260]: (error) Resource leak: fp
+[biz\report\logsend\demo\ao_deal_openid.cpp] -> [biz\report\logsend\demo\ao_deal_openid.cpp]: (error) Internal Error. MathLib::normalizeCharacterLiteral: Unhandled char constant '\\.'.
+[biz\vcon\pack\ao\ao_bsdiff.cpp:290]: (error) Resource leak: pf
+[biz\wlp\index\tools\getindexlist.cpp:256]: (error) Memory leak: pReadDb
+[biz\wlp\index\tools\getindexlist.cpp:298]: (error) Memory leak: pReadDb
+[biz\wlp\matsync\ao\ao_matsync.cpp:307]: (error) Resource leak: pFd
+[biz\wlp\matsync\bin\wlp_checkdata.cpp:77]: (error) Resource leak: pFd
+[biz\wlp\matsync\bin\wlp_entire.cpp:174]: (error) Resource leak: pFd
+[biz\wlp\matsync\bin\wlp_matentire.cpp:132]: (error) Resource leak: pFd
+[biz\wlp\matsync\bin\wlp_matsplit.cpp:114]: (error) Resource leak: pFd
+[biz\wlp\matsync\test\wl_parse.cpp:39]: (error) Resource leak: pFd
+[biz\wlp\matsync\test\wl_parse.cpp:53]: (error) Resource leak: pFd
+[biz\wlp\matsync\test\wlp_analyze.cpp:124]: (error) Resource leak: pFd
+[biz\wlp\matsync\test\wlp_sync.cpp:41]: (error) Resource leak: pFd
+[biz\wlp\recmdsvc\ao\ao_recmd.cpp:948] -> [biz\wlp\recmdsvc\ao\ao_recmd.cpp:947]: (error) Iterator 'it' used after element has been erased.
+[biz\wlp\relevance\ao\thread_pool.cpp:43]: (error) Memory leak: p
+[biz\wlp\sk\test\sku_client.cpp:97]: (error) Memory leak: request
+[biz\wlp\sk\test\sku_client.cpp:60]: (error) Memory leak: response
+[biz\wlp\sku_client_gw\ao\ao_sku_gw.cpp:120]: (error) Memory leak: cntl
+[biz\wlp\sku_client_gw\test\sku_client.cpp:87]: (error) Memory leak: request
+[biz\wlp\sku_client_gw\test\sku_client.cpp:87]: (error) Memory leak: response
+[biz\wlp\sku_client_gw\test\sku_state.cpp:51]: (error) Memory leak: request
+[biz\wlp\sku_client_gw\test\sku_state.cpp:51]: (error) Memory leak: response
+(information) Too many #ifdef configurations - cppcheck only checks 12 configurations. Use --force to check all configurations. For more details, use --enable=information.
