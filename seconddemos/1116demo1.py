@@ -23,3 +23,9 @@ print("His teeth are usually %s depending on the coffee."%my_teeth)
 print("His teeth are usually %r depending on the coffee."%my_teeth)
 print("If i add %d,%d,and %d I get %d."%(my_age,my_height,my_weight,my_age+my_height+my_weight))
 print("If i add %r,%r,and %r I get %r."%(my_age,my_height,my_weight,my_age+my_height+my_weight))
+
+
+print("wodejia","zaidongbei","songhuajiangshang","fengjingmeili.")
+
+
+print("what's your name",input("your name please:"))
